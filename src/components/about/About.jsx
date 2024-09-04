@@ -1,8 +1,7 @@
 import React from 'react';
 import "./about.css";
 import about_me from '../../assets/about_me.webp'
-import CV from "../../assets/portfolio_resume.pdf";
-
+import CV from '../../assets/myresume.pdf'
 const About = () => {
   return (
     <section className="about section" id="about">
