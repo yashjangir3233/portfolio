@@ -18,7 +18,7 @@ const Footer = () => {
                     <a href="#testimonials" className="footer__link">Testimonials</a>
                 </li>
             </ul>
-            <div className="footer__social">
+{/*             <div className="footer__social">
                 <a href="https://twitter.com/cyphrsylph" className="home__social-icon" target="_blank" rel="noreferrer">
                     <FiTwitter />
                 </a>
@@ -27,8 +27,8 @@ const Footer = () => {
                 </a>
                 <a href="https://www.linkedin.com/in/kmaalig/" className="home__social-icon" target="_blank" rel="noreferrer" >
                     <FiLinkedin />
-                </a>    
-            </div>
+                </a> 
+            </div> */}
             <span className="footer__copy"></span>
         </div>
     </footer>
